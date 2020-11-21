@@ -1,4 +1,4 @@
-<img src="./assets/logo.svg" width="300" height="300" align="center">
+<img src="./assets/logo.png"  widht="200" height="200" align="center">
 
 ### O Mão na Roda disponibiliza links para o desenvolvimento de projetos sendo sua maioria links gratuitos.
 
