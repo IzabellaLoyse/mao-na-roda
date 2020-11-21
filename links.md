@@ -11,27 +11,37 @@
 
   # Ilustrações 📌
 
-  # Icones 🔗
+  # Ícones 🔗
+
+  - [EmojiPedia](https://emojipedia.org/) O EmojiPedia é uma Wikipédia de emojis.
+
+  - [Devicon](https://devicon.dev/) Devicon é um conjunto de ícones que representam linguagens de programação, ferramentas de design e desenvolvimento. 
 
   # Favicon
 
-  # Ferramentas
+  # Ferramentas ⚙️
+
+  - [How To Center In CSS](http://howtocenterincss.com/) Essa ferramenta te auxilia na centralização dos elementos no CSS.
+  
+  - [Ninja Units](https://www.ninjaunits.com/converters/pixels/pixels-rem/) O Ninja units é um conversor de medidas Pixels para Rem.
 
   # Cursos Gratuitos 🖥️
 
   - [HTML e CSS](https://webgradients.com/) Curso de HTML e CSS (atual) do Curso em Vídeo lecionado pelo professor Gustavo Guanabara
   
-  - [GIT e GITHUB](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) Curso de Git e Github do Curso em Vídeo lecionado pelo professor Gustavo Guanabara
+  - [Git e Github](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) Curso de Git e Github do Curso em Vídeo lecionado pelo professor Gustavo Guanabara
 
   
 
   # Sites e blogs 📝
 
-  - [DPW](https://desenvolvimentoparaweb.com/) Site com conteúdo voltado para o desenvolvimento web contendo dicas,metodologias e informações.
+  - [DPW](https://desenvolvimentoparaweb.com/) O Dpw é um site repleto de conteúdos voltados para o desenvolvimento web.
   
   - [Rocketseat](https://blog.rocketseat.com.br/) O blog da Rocketseat aborda tecnologias como React,Next.JS,JavaScript e etc.
 
   # Plugins VS Code
+
+  - [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) A extensão TabNine te ajuda a escrever códigos mais rápido utilizando autocomplete.
 
   # Jogos 🎮
 
@@ -56,5 +66,5 @@
 
   # Extensões do Google Chrome 📌
 
-  -[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-ntp-icon) Essa ferramenta indica as tecnologias web usadas no site em que você está utilizando.
+  - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-ntp-icon) Essa ferramenta indica as tecnologias web usadas no site em que você está utilizando.
 
