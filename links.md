@@ -4,5 +4,6 @@
 
   # Paleta de Cores 🖍️
 
-  - [MyColor](https://mycolor.space/) Criação de paletas de cores, sendo para cores sólidas e gradientes.
+  - [SpaceColor](https://mycolor.space/) Criação de paletas de cores, sendo  cores sólidas e gradientes.
+  - [Webgradients](https://webgradients.com/) O webgradients oferece opções de gradientes prontos.
   - 
