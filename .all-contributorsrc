@@ -1,32 +1,27 @@
 {
-  
-    "projectName": "mao-na-roda",
-    "projectOwner": "IzabellaLoyse",
-    "repoType": "github",
-    "repoHost": "https://github.com",
-    "files": [
-      "README.md"
-    ],
-    "imageSize": 100,
-    "commit": false,
-    "contributors": [
-      {
-        "login": "IzabellaLoyse",
-        "name": "Izabella Loyse",
-        "avatar_url": "https://avatars1.githubusercontent.com/u/68293229?s=460&u=abad552f510dd39f41200d84a206bf8e864538f6&v=4",
-        "profile": "https://github.com/IzabellaLoyse",
-        "contributions": [
-          "code",
-          "ideas",
-          "infra",
-          "test",
-          "mentoring",
-          "maintenance"
-        ]
-      }
-      
-      
-    ],
-    "contributorsPerLine": 7,
-    "skipCi": true
-  }
+  "projectName": "mao-na-roda",
+  "projectOwner": "IzabellaLoyse",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "IzabellaLoyse",
+      "name": "Izabella Loyse",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/68293229?s=460&u=abad552f510dd39f41200d84a206bf8e864538f6&v=4",
+      "profile": "https://github.com/IzabellaLoyse",
+      "contributions": [
+        "code",
+        "ideas",
+        "infra",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}
