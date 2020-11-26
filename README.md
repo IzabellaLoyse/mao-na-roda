@@ -25,22 +25,37 @@
  <a href="#licenca">Licença</a> • 
 </p>
 
-
 <h2 id="sobre">💻  Sobre o projeto</h2>
 <p>
-  O Mão na Roda disponibiliza links que irão te auxiliar no desenvolvimento de projetos sendo sua maioria links com acesso gratuito.  
+  O Mão na Roda disponibiliza links que irão te auxiliar no desenvolvimento 
+  de projetos sendo sua maioria links com acesso gratuito.  
 </p>
-
 
 <h2 id="links">🔍Links</h2>
 <p>
    Visite a página <a href="https://github.com/IzabellaLoyse/mao-na-roda/blob/main/links.md">Links</a> para conhecer a lista completa.
 </p>
 
+<h2 id="contribuidores">📌Contribuidores</h2>
+<table>
+<tr>
+
+<td align="center"> <a href="https://github.com/IzabellaLoyse">
+<img src="https://avatars1.githubusercontent.com/u/68293229?s=460&u=abad552f510dd39f41200d84a206bf8e864538f6&v=4" width="100px;" alt="Foto de perfil">
+<br>
+<sub><b>Izabella Loyse</b></sub>
+</a>
+<br>
+ <a href="https://github.com/IzabellaLoyse/mao-na-roda/commits?author=IzabellaLoyse" title="Code">💻</a><a href="#features-izabellaloyse" 
+ title="Ideas, Planning, & Feedback">🤔</a> 
+ <a href="#infra-izabellaloyse" title="Infrastructure">🚇</a>
+ <a href="#design-izabellaloyse" title="Designer">🎨</a> 
+ </td>
+
+</tr>
+</table>
 
 <h2 id="licenca" >📝 Licença</h2>
 <p>
 Este projeto está sobe a licença <a href="https://github.com/IzabellaLoyse/mao-na-roda/blob/main/LICENSE.md">MIT</a>
 </p>
-
-
