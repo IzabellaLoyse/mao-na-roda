@@ -7,21 +7,21 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
-  "contributors": [
-    {
-      "login": "IzabellaLoyse",
-      "name": "Izabella Loyse",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/68293229?s=460&u=abad552f510dd39f41200d84a206bf8e864538f6&v=4",
-      "profile": "https://github.com/IzabellaLoyse",
-      "contributions": [
-        "code",
-        "ideas",
-        "infra",
-        "design"
-      ]
-    }
-  ],
   "contributorsPerLine": 7,
-  "skipCi": true
+  "commit": true,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+    "custom": {
+      "symbol": "🔭",
+      "description": "A custom contribution type.",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": "true",
+  "contributors": [
+    
+  ]
 }
+
