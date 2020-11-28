@@ -25,7 +25,7 @@
  <a href="#links">Links</a> •
  <a href="#contribuidores">Contribuidores</a>•
  <a href="#licenca">Licença</a> •
- <a href="#gitpod">Gitpod/a> •
+ <a href="#gitpod">Gitpod</a> •
 </p>
 
 <h2 id="sobre">💻  Sobre o projeto</h2>
@@ -63,8 +63,9 @@ Este projeto está sobe a licença <a href="https://github.com/IzabellaLoyse/mao
 
 
 <h2 id="gitpod"> ⚙️ Gitpod</h2>
-<p>
-[![Gitpod Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/IzabellaLoyse/mao-na-roda)
-</p>
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/IzabellaLoyse/mao-na-roda)
+
+
 
 
