@@ -1,3 +1,5 @@
+
+
 <img src="./assets/logo.png" align="center" widht="250" height="250" >
 
 <p align="center"> Links que são uma mão na roda para o desenvolvimento de projetos e evolução do aprendizado.</p>
@@ -20,15 +22,16 @@
 
 <p align="center">
  <a href="#sobre">Sobre o projeto</a> •
- <a href="#links">Links</a> • 
- <a href="#contribuidores">Contribuidores</a>• 
- <a href="#licenca">Licença</a> • 
+ <a href="#links">Links</a> •
+ <a href="#contribuidores">Contribuidores</a>•
+ <a href="#licenca">Licença</a> •
+ <a href="#gitpod">Gitpod/a> •
 </p>
 
 <h2 id="sobre">💻  Sobre o projeto</h2>
 <p>
-  O Mão na Roda disponibiliza links que irão te auxiliar no desenvolvimento 
-  de projetos sendo sua maioria links com acesso gratuito.  
+  O Mão na Roda disponibiliza links que irão te auxiliar no desenvolvimento
+  de projetos sendo sua maioria links com acesso gratuito.
 </p>
 
 <h2 id="links">🔍Links</h2>
@@ -46,10 +49,8 @@
 <sub><b>Izabella Loyse</b></sub>
 </a>
 <br>
- <a href="https://github.com/IzabellaLoyse/mao-na-roda/commits?author=IzabellaLoyse" title="Code">💻</a><a href="#features-izabellaloyse" 
- title="Ideas, Planning, & Feedback">🤔</a> 
- <a href="#infra-izabellaloyse" title="Infrastructure">🚇</a>
- <a href="#design-izabellaloyse" title="Designer">🎨</a> 
+ <a href="https://github.com/IzabellaLoyse/mao-na-roda/commits?author=IzabellaLoyse" title="Code">💻</a>
+
  </td>
 
 </tr>
@@ -59,3 +60,11 @@
 <p>
 Este projeto está sobe a licença <a href="https://github.com/IzabellaLoyse/mao-na-roda/blob/main/LICENSE.md">MIT</a>
 </p>
+
+
+<h2 id="gitpod"> ⚙️ Gitpod</h2>
+<p>
+[![Gitpod Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/IzabellaLoyse/mao-na-roda)
+</p>
+
+
