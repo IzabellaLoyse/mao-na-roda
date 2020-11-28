@@ -1,5 +1,3 @@
-
-
 <img src="./assets/logo.png" align="center" widht="250" height="250" >
 
 <p align="center"> Links que são uma mão na roda para o desenvolvimento de projetos e evolução do aprendizado.</p>
@@ -13,9 +11,6 @@
 <img src="https://img.shields.io/github/forks/IzabellaLoyse/mao-na-roda?color=yellow&style=for-the-badge">
 
 <img src="https://img.shields.io/github/license/IzabellaLoyse/mao-na-roda?color=blue&style=for-the-badge">
-
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/IzabellaLoyse/mao-na-roda)
-
 
 </p>
 
@@ -64,11 +59,6 @@
 Este projeto está sobe a licença <a href="https://github.com/IzabellaLoyse/mao-na-roda/blob/main/LICENSE.md">MIT</a>
 </p>
 
-
 <h2 id="gitpod"> ⚙️ Gitpod</h2>
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/IzabellaLoyse/mao-na-roda)
-
-
-
-
