@@ -34,7 +34,7 @@
 
 <h2 id="links">🔍Links</h2>
 <p>
-   Visite a página <a href="https://izabellaloyse.github.io/mao-na-roda/#/">Mão na Roda</a> para conhecer a lista completa.
+   Visite a página <a href="https://mao-na-roda.vercel.app/docs#/">Mão na Roda</a> para conhecer a lista completa.
 </p>
 
 <h2 id="contribuidores">📌Contribuidores</h2>
