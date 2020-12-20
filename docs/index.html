@@ -9,52 +9,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
         title="docsify-darklight-theme" type="text/css" />
+
+
 </head>
 
 <body>
+
     <div id="app">Loading...</div>
     <script>
         window.$docsify = {
             darklightTheme: {
-      siteFont : "PT Sans",
-      defaultTheme : 'dark',
-      codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
-      bodyFontSize : '17px',
-      dark: {
-          accent: '#2B70E4',
-          toogleBackground : '#ffffff',
-          background: '#091a28',
-          textColor: '#b4b4b4',
-          codeTextColor : '#ffffff',
-          codeBackgroudColor : '#0e2233',
-          borderColor : '#0d2538',
-          blockQuoteColour : '#938A93',
-          highlightColor : '#d22778',
-          sidebarSublink : '#625962',
-          codeTypeColor : '#ffffff',
-          toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
-      },
-      light: {
-          accent: '#2B70E4',
-          toogleBackground : '#091a28',
-          background: '#FFF5FF',
-          textColor: '#4C444C',
-          codeTextColor : '#58656D',
-          codeBackgroudColor : '#f8f8f8',
-          borderColor : 'rgba(0, 0, 0, 0.07)',
-          blockQuoteColor : '#424656',
-          highlightColor : '#d22778',
-          sidebarSublink : '#3D7AFD',
-          codeTypeColor : '#091a28',
-          toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
-      }
-  },
+                siteFont: "PT Sans",
+                defaultTheme: 'dark',
+                codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
+                bodyFontSize: '17px',
+                dark: {
+                    accent: '#2B70E4',
+                    toogleBackground: '#ffffff',
+                    background: '#091a28',
+                    textColor: '#b4b4b4',
+                    codeTextColor: '#ffffff',
+                    codeBackgroudColor: '#0e2233',
+                    borderColor: '#0d2538',
+                    blockQuoteColour: '#938A93',
+                    highlightColor: '#d22778',
+                    sidebarSublink: '#625962',
+                    codeTypeColor: '#ffffff',
+                    toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
+                },
+                light: {
+                    accent: '#2B70E4',
+                    toogleBackground: '#091a28',
+                    background: '#FFF5FF',
+                    textColor: '#4C444C',
+                    codeTextColor: '#58656D',
+                    codeBackgroudColor: '#f8f8f8',
+                    borderColor: 'rgba(0, 0, 0, 0.07)',
+                    blockQuoteColor: '#424656',
+                    highlightColor: '#d22778',
+                    sidebarSublink: '#3D7AFD',
+                    codeTypeColor: '#091a28',
+                    toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
+                }
+            },
 
 
             el: "#app",
             name: "Mão na Roda <small> 👋</small>",
             logo: "/_media/logo.svg",
-            repo: "https://github.com/IzabellaLoyse/mao-na-roda",
             themeColor: "#2B70E4",
             coverpage: false,
             loadSidebar: true,
@@ -66,12 +68,48 @@
                 nextText: "Próximo",
                 crossChapter: true,
                 crossChapterText: true,
-            }
+            },
 
+            share: {
+                linkedin: true,
+                facebook: true,
+                twitter: true,
+                whatsapp: true,
+                telegram: true,
 
+                facebook: {
+                    url: "https://mao-na-roda.vercel.app/docs#/",
+                },
+
+                twitter: {
+                    url: "https://mao-na-roda.vercel.app/docs#/",
+                    title: "Mão na Roda",
+                },
+
+                linkedin: {
+                    url: "https://mao-na-roda.vercel.app/docs#/"
+                },
+
+                whatsapp: {
+                    url: "https://mao-na-roda.vercel.app/docs#/",
+                    title: "Mão na Roda",
+                },
+
+                telegram: {
+                    url: "https://mao-na-roda.vercel.app/docs#/",
+                    title: "Mão na Roda",
+                },
+
+                options: {
+                    color: '#2B70E4'
+                },
+
+            },
 
         };
     </script>
+
+
 
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
@@ -80,6 +118,8 @@
     </script>
 
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+    <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
 
 
 
