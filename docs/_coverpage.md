@@ -1,6 +1,6 @@
 
 
-# Mão na Roda <small> 👋</small>
+# Mão na Roda <big>👋</big>
 
 > Links úteis para elaboração de projetos e evolução do aprendizado...
 
@@ -11,4 +11,4 @@
 [GitHub](https://github.com/IzabellaLoyse/mao-na-roda/tree/main)
 [Sobre](#Sobre)
 
-![color](#EEE8A9)
+![color](#ffec8b)
