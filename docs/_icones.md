@@ -1,5 +1,4 @@
 
-# Ícones 🔗
 
 - [EmojiPedia](https://emojipedia.org/) O EmojiPedia é uma Wikipédia de emojis.
 

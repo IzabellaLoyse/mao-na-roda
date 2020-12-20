@@ -1,7 +1,7 @@
 
-# Paleta de Cores 🖍️
 
-> Estão listados abaixo duas subseções referentes a cores, sendo uma para cores sólidas e outra para gradientes.
+
+> Estão listados abaixo três subseções referentes a cores, sendo uma para cores sólidas,outra para gradientes e a terceira contendo os dois tipos de cores.
 
 # Cores sólidas
 

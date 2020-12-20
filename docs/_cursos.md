@@ -1,5 +1,4 @@
 
-# Cursos Gratuitos 🖥️
 
   - [HTML e CSS](https://webgradients.com/) Curso de HTML e CSS (atual) do Curso em Vídeo lecionado pelo professor Gustavo Guanabara
 

@@ -1,9 +1,13 @@
 
-# Sobre
 
-> O Mão na Roda disponibiliza links que irão te auxiliar no desenvolvimento de projetos sendo sua maioria links com acesso gratuito.
+> O Mão na Roda 👋 disponibiliza  links que irão te auxiliar no desenvolvimento de projetos e na evolução do aprendizado.
 
-# Seções disponíveis
+- Simplifique seus projetos
+- Evolua a cada dia...
+-  Aproveite os links ;)
+
+
+#  Seções disponíveis
 
 - 🖍️ [Cores](_cores.md)
 - 🖼️ [Imagens](_imagens.md)
@@ -11,6 +15,7 @@
 - 🔗 [Ícones](_icones.md)
 - 🧩 Favicon
 - ⚙️ [Ferramentas](_ferramentas.md)
+- 📘 [Documentação](_documentacao.md)
 - 🖥️ [Cursos gratuitos](_cursos.md)
 - 📝 [Sites e blogs](_sites.md)
 - 💡 Plugins Visual Studio Code
@@ -20,6 +25,10 @@
 - 📚 Livros
 - 📹 Canais no Youtube
 
+
+# GitHub
+
+ Entre no [GitHub](https://github.com/IzabellaLoyse/mao-na-roda/tree/main) do projeto e contribua com a evolução do site ;)
 
 # Licença
 
