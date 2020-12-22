@@ -12,16 +12,16 @@
 - [Ilustrações 📷](_ilustracoes.md)
 - [Ícones 🔗](_icones.md)
 - Favicon
-- [Ferramentas](_ferramentas.md)
+- [Ferramentas ⚙️](_ferramentas.md)
 
 - Extra
 - [Cursos gratuitos  🖥️](_cursos.md)
-- [Sites e blogs](_sites.md)
+- [Sites e blogs 📝](_sites.md)
 - Plugins Visual Studio Code
-- Jogos
-- Desafios
+- [Jogos 🎮](_jogos.md)
+- [Desafios ⏰](_desafios.md)
 - Extensões do Google Chrome
 - Livros
-- Canais no Youtube
+- [Canais do YouTube 📹](_canais.md)
 
 

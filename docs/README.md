@@ -1,10 +1,11 @@
 
 
-> O Mão na Roda 👋 disponibiliza  links que irão te auxiliar no desenvolvimento de projetos e na evolução do aprendizado.
+> O Mão na Roda 👋 disponibiliza  links que irão te auxiliar no desenvolvimento
+de projetos e na evolução do aprendizado.
 
 - Simplifique seus projetos
 - Evolua a cada dia...
--  Aproveite os links ;)
+- Aproveite os links ;)
 
 
 #  Seções disponíveis
@@ -19,11 +20,11 @@
 - 🖥️ [Cursos gratuitos](_cursos.md)
 - 📝 [Sites e blogs](_sites.md)
 - 💡 Plugins Visual Studio Code
-- 🎮 Jogos
-- ⏰ Desafios
+- 🎮 [Jogos](_jogos.md)
+- ⏰ [Desafios](_desafios.md)
 -📌 Extensões do Google Chrome
 - 📚 Livros
-- 📹 Canais no Youtube
+- 📹 [Canais do YouTube](_canais.md)
 
 
 # GitHub
