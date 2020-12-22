@@ -4,6 +4,7 @@
 <p align="center"> Links que são uma mão na roda para o desenvolvimento de
 projetos e evolução do aprendizado.</p>
 
+
 <p align="center">
 
 <img src="https://img.shields.io/github/stars/IzabellaLoyse/mao-na-roda?color=green&style=for-the-badge">
@@ -33,15 +34,14 @@ projetos e evolução do aprendizado.</p>
 
 <p>
   O Mão na Roda disponibiliza links que irão te auxiliar no desenvolvimento
-  de projetos sendo sua maioria links com acesso gratuito.
+  de projetos e na evolução do seu aprendizado.
 </p>
 
 
 <h2 id="links">🔍Links</h2>
 
 <p>
-   Visite a página <a href="https://mao-na-roda.vercel.app/docs#/">
-   Mão na Roda</a> para conhecer a lista completa.
+   Visite a página <a href="https://mao-na-roda.vercel.app/docs#/" target="_blank" rel="external"> Mão na Roda</a> para conhecer a lista completa.
 </p>
 
 
@@ -50,21 +50,29 @@ projetos e evolução do aprendizado.</p>
 <table>
 <tr>
 
-<td align="center">
-<a href="https://github.com/IzabellaLoyse">
-<img src="https://avatars1.githubusercontent.com/u/68293229?s=460&u=abad552f510dd39f41200d84a206bf8e864538f6&v=4" width="100px;"
+ <td align="center">
+ <a href="https://github.com/IzabellaLoyse" target="_blank" rel="author">
+
+ <img src="https://avatars1.githubusercontent.com/u/68293229?s=460&u=abad552f510dd39f41200d84a206bf8e864538f6&v=4" width="100px;"
 alt="Foto de perfil">
+
 <br>
 
 <sub><b>Izabella Loyse</b></sub>
 </a>
-
-<br>
- <a href="https://github.com/IzabellaLoyse/mao-na-roda/commits?author=IzabellaLoyse" title="Code">💻</a>
  </td>
 
+  <td align="center">
+ <a href="https://github.com/jorgehrique" target="_blank" rel="external">
 
+ <img src="https://avatars1.githubusercontent.com/u/11358338?s=460&v=4"
+ width="100px;" alt="Foto de perfil">
 
+<br>
+
+<sub><b>Jorge Henrique</b></sub>
+</a>
+ </td>
 </tr>
 </table>
 
