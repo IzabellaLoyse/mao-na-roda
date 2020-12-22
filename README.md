@@ -1,9 +1,7 @@
-
 <img src="./assets/logo.png" align="center" widht="250" height="250" >
 
 <p align="center"> Links que são uma mão na roda para o desenvolvimento de
 projetos e evolução do aprendizado.</p>
-
 
 <p align="center">
 
@@ -53,7 +51,7 @@ projetos e evolução do aprendizado.</p>
  <td align="center">
  <a href="https://github.com/IzabellaLoyse" target="_blank" rel="author">
 
- <img src="https://avatars1.githubusercontent.com/u/68293229?s=460&u=abad552f510dd39f41200d84a206bf8e864538f6&v=4" width="100px;"
+<img src="https://avatars1.githubusercontent.com/u/68293229?s=460&u=abad552f510dd39f41200d84a206bf8e864538f6&v=4" width="100px;"
 alt="Foto de perfil">
 
 <br>
@@ -65,7 +63,7 @@ alt="Foto de perfil">
   <td align="center">
  <a href="https://github.com/jorgehrique" target="_blank" rel="external">
 
- <img src="https://avatars1.githubusercontent.com/u/11358338?s=460&v=4"
+<img src="https://avatars1.githubusercontent.com/u/11358338?s=460&v=4"
  width="100px;" alt="Foto de perfil">
 
 <br>

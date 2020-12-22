@@ -19,10 +19,10 @@ de projetos e na evolução do aprendizado.
 - 📘 [Documentação](_documentacao.md)
 - 🖥️ [Cursos gratuitos](_cursos.md)
 - 📝 [Sites e blogs](_sites.md)
-- 💡 Plugins Visual Studio Code
+- 💡 [Plugins Visual Studio Code](_plugins.md)
 - 🎮 [Jogos](_jogos.md)
 - ⏰ [Desafios](_desafios.md)
--📌 Extensões do Google Chrome
+-📌 [Extensões do Google Chrome](_extensoes.md)
 - 📚 Livros
 - 📹 [Canais do YouTube](_canais.md)
 
