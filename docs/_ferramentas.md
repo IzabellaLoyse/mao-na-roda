@@ -13,3 +13,6 @@
 - [Spring](https://start.spring.io/) Inicialização de projeto Spring.
 
 - [Quarkus](https://code.quarkus.io/) Inicialização de projeto Quarkus.
+
+- [RegExr](https://regexr.com/) Aprenda, construa e teste expressões regulares.
+
