@@ -60,7 +60,7 @@ alt="Foto de perfil">
 </a>
  </td>
 
-  <td align="center">
+<td align="center">
  <a href="https://github.com/jorgehrique" target="_blank" rel="external">
 
 <img src="https://avatars1.githubusercontent.com/u/11358338?s=460&v=4"

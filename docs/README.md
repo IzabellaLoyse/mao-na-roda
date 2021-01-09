@@ -18,6 +18,7 @@ de projetos e na evolução do aprendizado.
 - ⚙️ [Ferramentas](_ferramentas.md)
 - 📁 [Frameworks](_framework.md)
 - 📘 [Documentação](_documentacao.md)
+- 📎 [Git](_git.md)
 - 🖥️ [Cursos gratuitos](_cursos.md)
 - 📝 [Sites e blogs](_sites.md)
 - 💡 [Plugins Visual Studio Code](_plugins.md)

@@ -4,6 +4,8 @@
 
 <!-- Seção do Sidebar voltada para as ferramentas de desenvolvimento-->
 
+# CSS
+
 - [How To Center In CSS](http://howtocenterincss.com/) Essa ferramenta te
   auxilia na centralização dos elementos no CSS.
 
@@ -13,12 +15,23 @@
 - [CSS Formatter](https://www.cleancss.com/css-beautify/) Essa ferramenta
   permite uma formatação de um código bonito e legível.
 
+- [Ninja Units](https://www.ninjaunits.com/converters/pixels/pixels-rem/) O
+  Ninja units é um conversor de medidas Pixels para Rem.
+
+- [CSS Clip-path Maker](https://bennettfeely.com/clippy/) Ferramenta para te
+  auxiliar na elaboração de Clip Path do CSS.
+
+- [CSS Layout](https://csslayout.io/) Uma coleção de layouts e padrões
+	populares feitos com CSS.
+
+- [Shape Dividers](https://www.shapedivider.app/) Ferramenta para criação de
+  formas em formato SVG.
+
+# Outros
+
 - [ESLint](https://eslint.org/) É uma ferramenta para identificar e relatar
   padrões encontrados no código ECMAScript / JavaScript, com o objetivo de
   tornar o código mais consistente e evitar bugs.
-
-- [Ninja Units](https://www.ninjaunits.com/converters/pixels/pixels-rem/) O
-  Ninja units é um conversor de medidas Pixels para Rem.
 
 - [Docsify](https://docsify.js.org/#/) Um gerador de sites de documentação.
 
