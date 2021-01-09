@@ -14,8 +14,9 @@ de projetos e na evolução do aprendizado.
 - 🖼️ [Imagens](_imagens.md)
 - 📷 [Ilustrações](_ilustracoes.md)
 - 🔗 [Ícones](_icones.md)
-- 🧩 Favicon
+- 🧩 [Favicon](_favicon.md)
 - ⚙️ [Ferramentas](_ferramentas.md)
+- 📁 [Frameworks](_framework.md)
 - 📘 [Documentação](_documentacao.md)
 - 🖥️ [Cursos gratuitos](_cursos.md)
 - 📝 [Sites e blogs](_sites.md)
@@ -29,7 +30,8 @@ de projetos e na evolução do aprendizado.
 
 # GitHub
 
- Entre no [GitHub](https://github.com/IzabellaLoyse/mao-na-roda/tree/main) do projeto e contribua com a evolução do site ;)
+ Entre no [GitHub](https://github.com/IzabellaLoyse/mao-na-roda/tree/main)
+ do projeto e contribua com a evolução do site ;)
 
 # Licença
 

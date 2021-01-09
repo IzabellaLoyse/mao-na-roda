@@ -9,15 +9,20 @@
 
 - [Sobre o site](/)
 
-- Back-end -[Documentação 📘](_documentacao.md)
+- Back-end
+- [Documentação 📘](_documentacao.md)
 
 - Front-end
 - [Cores 🖍️ ](_cores.md)
 - [Imagens 🖼️ ](_imagens.md)
 - [Ilustrações 📷](_ilustracoes.md)
 - [Ícones 🔗](_icones.md)
-- Favicon
+- [Favicon 🧩](_favicon.md)
 - [Ferramentas ⚙️](_ferramentas.md)
+- [Frameworks 📁](_framework.md)
+
+- Design
+-
 
 - Extra
 - [Cursos gratuitos 🖥️](_cursos.md)
