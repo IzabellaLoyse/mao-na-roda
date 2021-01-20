@@ -15,6 +15,8 @@ de projetos e na evolução do aprendizado.
 - 📷 [Ilustrações](_ilustracoes.md)
 - 🔗 [Ícones](_icones.md)
 - 🧩 [Favicon](_favicon.md)
+- 🖱️ [IDEs](_ide.md)
+- 🔌 [Feature](_feature.md)
 - ⚙️ [Ferramentas](_ferramentas.md)
 - 📁 [Frameworks](_framework.md)
 - 📘 [Documentação](_documentacao.md)

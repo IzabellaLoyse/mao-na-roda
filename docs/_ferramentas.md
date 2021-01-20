@@ -27,7 +27,23 @@
 - [Shape Dividers](https://www.shapedivider.app/) Ferramenta para criação de
   formas em formato SVG.
 
+- [PSD To CSS Shadow](http://psd-to-css-shadows.com/) Converter sombras
+  projetadas do Photoshop em sombras CSS3.
+
+
+# JavaScript
+
+- [Sweetalert](https://sweetalert2.github.io/#examples) Substituição
+  personalizável para os PopUp boxes JavaScript.
+
 # Outros
+
+- [HTTP Cats](https://http.cat/) Status de HTTP com imagens de gatos.
+
+- [Normalize](https://necolas.github.io/normalize.css/) Normalize.css faz com
+  que os navegadores renderizem todos os elementos de forma mais consistente e
+	de acordo com os padrões modernos. Ele visa precisamente apenas os estilos
+	que precisam de normalização.
 
 - [ESLint](https://eslint.org/) É uma ferramenta para identificar e relatar
   padrões encontrados no código ECMAScript / JavaScript, com o objetivo de

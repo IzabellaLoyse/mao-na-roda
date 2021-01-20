@@ -21,8 +21,9 @@
 - [Ferramentas ⚙️](_ferramentas.md)
 - [Frameworks 📁](_framework.md)
 
-- Design
--
+- Tecnologias
+- [IDEs 🖱️](_ide.md)
+- [Feature 🔌](_feature.md)
 
 - Extra
 - [Git 📎](_git.md)

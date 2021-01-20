@@ -14,3 +14,5 @@
 
 - [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A) Aulas de
   IA e Deep learning de auto nível.
+
+-
